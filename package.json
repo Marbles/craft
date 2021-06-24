@@ -34,7 +34,7 @@
     "laravel-mix-svg-sprite": "^1.0.1",
     "laravel-mix-twig-to-html": "^1.3.0",
     "node-sass": "^4.14.1",
-    "postcss": "^7.0.35",
+    "postcss": "^7.0.36",
     "postcss-easy-import": "^3.0.0",
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.1.2",
